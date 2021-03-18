@@ -1,5 +1,4 @@
 # Hangman
-Python Hangman Game
 
 Created a Python game which reads in Words from a text file. It randomly selects a word from the file for the user to guess. 
 
